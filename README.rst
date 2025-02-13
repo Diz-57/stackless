@@ -1,3 +1,8 @@
+Stackless Python.
+=================
+
+Development of this project has now stopped, and the project is archived.
+
 This is Python version 3.9.0 alpha 0
 ====================================
 
